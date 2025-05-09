@@ -39,7 +39,7 @@ The labels are:
 ## Project Workflow
 1. **Data Loading**
    - Load `.pkl` files and extract ECG signal from S2 $ S17.
-   - ![Distribution]https://github.com/user-attachments/assets/79bc7a16-28b2-43e3-8a90-fc8fd73aaed7)
+   - ![Distribution](https://github.com/user-attachments/assets/79bc7a16-28b2-43e3-8a90-fc8fd73aaed7)
 
 2. **Preprocessing**
    - Removal of zero-value artifacts.
