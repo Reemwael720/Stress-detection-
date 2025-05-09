@@ -75,4 +75,15 @@ The labels are:
    <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
  </p>
 
+<!-- Contributors -->
+## <img  align= center width=50px height=50px src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id = "contributors"></a>
+
+<!-- Contributors list -->
+<table align="center" >
+  <tr>
+        <td align="center"><a href="https://github.com/reemwael720"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="150px;" alt=""/><br /><sub><b>Reem AL_Ghazali</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Arwa-eng"><img src="https://avatars.githubusercontent.com/u/xxxxxx?v=4" width="150px;" alt=""/><br /><sub><b>Arwa Mohamed</b></sub></a><br /></td>
+  </tr>
+</table>
+
 
