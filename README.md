@@ -42,7 +42,7 @@ The labels are:
      - `2` → Stress → `1`
      - Others (`1`, `3`, `4`) → Non-stress → `0`
       
-   - ![Distribution](![percentage](https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de))
+   - (https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de)
 
 ## Data Preprocessing
    - Removal of zero-value artifacts.
