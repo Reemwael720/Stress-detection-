@@ -76,6 +76,9 @@ The labels are:
  <p align="center">
    <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
  </p>
-
-
+## Contributors
+<p>
+  <a href="https://github.com/yourusername">
+    <img src="https://github.com/yourusername.png" width="60px" alt="yourusername"/>
+  </a>
 
