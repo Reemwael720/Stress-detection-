@@ -41,9 +41,9 @@ The labels are:
    -  Label filtering and binary mapping:
      - `2` → Stress → `1`
      - Others (`1`, `3`, `4`) → Non-stress → `0`
-      
+ <p align="center">
    -![Distribution](https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de)
-
+ </p>
 ## Data Preprocessing
    - Removal of zero-value artifacts.
    - Sliding window approach (5-second windows: 3500 samples)
@@ -51,6 +51,6 @@ The labels are:
    - Used `neurokit2.ecg_clean()` for noise filtering
    - Under-sampling + SMOTE to address class imbalance
      
-   -  ![preprocessing](![clean](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
+   -  ![preprocessing](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
 
 
