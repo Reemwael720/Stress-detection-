@@ -38,10 +38,10 @@ The labels are:
 - **5-7**: Additional states
 
 ## Data Loading
-   - Load `.pkl` files and extract ECG signal from S2 $ S17.
+   - Load `.pkl` files and extract ECG signal from S2 & S17.
    -  Label filtering and binary mapping:
-     - `2` → Stress → `1`
-     - Others (`1`, `3`, `4`) → Non-stress → `0`
+       - `2` → Stress → `1`
+       - Others (`1`, `3`, `4`) → Non-stress → `0`
       
  <p align="center">
    <img src= "https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de" alt="Destribution">
