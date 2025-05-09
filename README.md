@@ -38,10 +38,9 @@ The labels are:
 
 ## Installation
 
-To run the code in this repository, follow the steps below:
+pip install -r requirements.txt
 
-1. **Clone the repository**:
-   ```bash
+```bash
   pip install numpy pandas matplotlib seaborn neurokit2 scipy tensorflow scikit-learn imbalanced-learn
 
 
