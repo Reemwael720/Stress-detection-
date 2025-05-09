@@ -25,7 +25,7 @@ Key components of the project:
 - **Evaluation** using accuracy, confusion matrix, and classification reports.
 
 
-### Dataset 
+## Dataset 
 The dataset consists of `.pkl` files for each participant, where each file contains physiological signals, including ECG. The signals are organized into a dictionary with keys like `signal` (for the actual signals) and `label` (for the emotional state labels). 
 
 The labels are:
@@ -39,10 +39,12 @@ The labels are:
 ## Project Workflow
 1. **Data Loading**
    - Load `.pkl` files and extract ECG signal from S2 $ S17.
-   - ![Distribution](https://github.com/user-attachments/assets/79bc7a16-28b2-43e3-8a90-fc8fd73aaed7)
+   -  Label filtering and binary mapping:
+     - `2` → Stress → `1`
+     - Others (`1`, `3`, `4`) → Non-stress → `0`
+   - ![Distribution](![percentage](https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de)
 
 2. **Preprocessing**
    - Removal of zero-value artifacts.
-   - Label filtering and binary mapping:
-     - `2` → Stress → `1`
-     - Others (`1`, `3`, `4`) → Non-stress → `0`
+   - 
+
