@@ -42,6 +42,6 @@ To run the code in this repository, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/ecg-stress-classification.git
-   cd ecg-stress-classification
+  pip install numpy pandas matplotlib seaborn neurokit2 scipy tensorflow scikit-learn imbalanced-learn
+
 
