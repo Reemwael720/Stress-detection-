@@ -7,7 +7,7 @@ This project is designed to classify ECG signals into two categories: **Stress**
 ## Table of Contents
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
+- [Data Loading](#data-loading)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Architecture](#model-architecture)
 - [Training and Evaluation](#training-and-evaluation)
@@ -36,15 +36,19 @@ The labels are:
 - **4**: Meditation
 - **5-7**: Additional states
 
-## Project Workflow
-1. **Data Loading**
+## Data Loading
    - Load `.pkl` files and extract ECG signal from S2 $ S17.
    -  Label filtering and binary mapping:
      - `2` → Stress → `1`
      - Others (`1`, `3`, `4`) → Non-stress → `0`
    - ![Distribution](![percentage](https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de)
 
-2. **Preprocessing**
+## Data Preprocessing
    - Removal of zero-value artifacts.
-   - 
+   - Sliding window approach (5-second windows: 3500 samples)
+   - 50% overlap with majority label voting
+   - Used `neurokit2.ecg_clean()` for noise filtering
+   - Under-sampling + SMOTE to address class imbalance
+   -  ![preprocessing](![percentage](![clean](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
+
 
