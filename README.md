@@ -36,11 +36,15 @@ The labels are:
 - **4**: Meditation
 - **5-7**: Additional states
 
-## Installation
+## Project Workflow
+1. **Data Loading**
+   - Load `.pkl` files and extract ECG signal from S2 $ S17.
+     ![Distribution](![All label](https://github.com/user-attachments/assets/79bc7a16-28b2-43e3-8a90-fc8fd73aaed7)
+)
 
-pip install -r requirements.txt
 
-```bash
-  pip install numpy pandas matplotlib seaborn neurokit2 scipy tensorflow scikit-learn imbalanced-learn
-
-
+2. **Preprocessing**
+   - Removal of zero-value artifacts.
+   - Label filtering and binary mapping:
+     - `2` → Stress → `1`
+     - Others (`1`, `3`, `4`) → Non-stress → `0`
