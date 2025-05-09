@@ -10,7 +10,8 @@ This project is designed to classify ECG signals into two categories: **Stress**
 - [Data Loading](#data-loading)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Architecture](#model-architecture)
-- [Training and Evaluation](#training-and-evaluation)
+- [Training](#training)
+- [Evaluation](#Evaluation)
 - [Results](#results)
 
 
@@ -41,9 +42,11 @@ The labels are:
    -  Label filtering and binary mapping:
      - `2` → Stress → `1`
      - Others (`1`, `3`, `4`) → Non-stress → `0`
+      
  <p align="center">
    <img src= "https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de" alt="Destribution">
  </p>
+ 
 ## Data Preprocessing
    - Removal of zero-value artifacts.
    - Sliding window approach (5-second windows: 3500 samples)
@@ -52,5 +55,24 @@ The labels are:
    - Under-sampling + SMOTE to address class imbalance
      
    -  ![preprocessing](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
+
+## Model Architecture
+   - Deep **1D CNN** model with:
+     - 5 convolutional layers
+     - BatchNormalization & Dropout for regularization
+     - Fully connected dense layers
+   - Final layer: Sigmoid activation for binary classification
+
+## Training
+   - Loss: Binary Crossentropy
+   - Optimizer: Adam
+   - Epochs: 30
+   - Batch Size: 16
+
+## Evaluation
+   - Accuracy, Confusion Matrix, Classification Report
+   - Training vs. Validation curves
+
+  ![Curve](https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7)
 
 
