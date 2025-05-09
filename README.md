@@ -1,5 +1,3 @@
-# Stress-detection
-
 # ECG Stress Classification using LSTM and CNN
 
 This project is designed to classify ECG signals into two categories: **Stress** and **Non-Stress**. The classification is based on the **WESAD** dataset, which includes physiological signals from individuals in different emotional states. The classification is carried out using a combination of **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks to take advantage of both feature extraction (via CNN) and sequence learning (via LSTM).
@@ -77,3 +75,14 @@ The labels are:
    <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
  </p>
 
+<!-- Contributors -->
+## <img  align= center width=50px height=50px src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id = "contributors"></a>
+
+<!-- Contributors list -->
+<table align="center" >
+  <tr>
+        <td align="center"><a href="https://github.com/Reemael720"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="150px;" alt=""/><br /><sub><b>Reem Al Ghazali </b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Arwa-eng"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="150px;" alt=""/><br /><sub><b>Reem Al Ghazali </b></sub></a><br /></td>
+
+  </tr>
+</table>
