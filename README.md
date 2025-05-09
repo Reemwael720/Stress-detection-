@@ -73,6 +73,9 @@ The labels are:
    - Accuracy, Confusion Matrix, Classification Report
    - Training vs. Validation curves
 
-  ![Curve](https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7)
+ <p align="center">
+   <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
+ </p>
+
 
 
