@@ -79,6 +79,6 @@ The labels are:
 ## Contributors
 <p>
   <a href="https://github.com/Reemwael720">
-    <img src="https://github.com/Reemwael720.png" width="60px" alt="yourusername"/>
+    <img src="https://github.com/Reemwael720.png" width="600px" alt="yourusername"/>
   </a>
 </p>
