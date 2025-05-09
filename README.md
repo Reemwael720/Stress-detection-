@@ -41,6 +41,7 @@ The labels are:
    -  Label filtering and binary mapping:
      - `2` → Stress → `1`
      - Others (`1`, `3`, `4`) → Non-stress → `0`
+      
    - ![Distribution](![percentage](https://github.com/user-attachments/assets/a94d62e6-31db-4002-b456-51f76afd00de)
 
 ## Data Preprocessing
@@ -49,6 +50,7 @@ The labels are:
    - 50% overlap with majority label voting
    - Used `neurokit2.ecg_clean()` for noise filtering
    - Under-sampling + SMOTE to address class imbalance
-   -  ![preprocessing](![percentage](![clean](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
+     
+   -  ![preprocessing](![clean](https://github.com/user-attachments/assets/0449d3d2-6be6-4df9-9cb1-e938f1fff1b0)
 
 
