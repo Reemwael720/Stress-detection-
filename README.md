@@ -77,16 +77,14 @@ The labels are:
 
 ## 👥 Contributors
 
-<a href="https://github.com/Reemwael720">
-  <img src="https://avatars.githubusercontent.com/Reemwael720" width="60px" alt="Reem Wael"/>
-  <br/>
-  <sub><b>Reem Wael</b></sub>
-</a>
-
-<a href="https://github.com/Arwa-eng">
-  <img src="https://avatars.githubusercontent.com/Arwa-eng" width="60px" alt="Arwa Eng"/>
-  <br/>
-  <sub><b>Arwa Eng</b></sub>
-</a>
-
-
+<p align="center">
+  <a href="https://github.com/Reemwael720">
+    <img src="https://avatars.githubusercontent.com/Reemwael720" width="150px" alt="Reem Al_Ghazali"/>
+    <br/><sub><b>Reem Wael</b></sub>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arwa-eng">
+    <img src="https://avatars.githubusercontent.com/Arwa-eng" width="150px" alt="Arwa Mohamed">
+    <br/><sub><b>Arwa Eng</b></sub>
+  </a>
+</p>
