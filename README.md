@@ -82,7 +82,7 @@ The labels are:
 <table align="center" >
   <tr>
         <td align="center"><a href="https://github.com/reemwael720"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="200px;" alt=""/><br /><sub><b>Reem AL_Ghazali</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/Arwa-eng"><img src="https://avatars.githubusercontent.com/u/xxxxxx?v=4" width="200px;" alt=""/><br /><sub><b>Arwa Mohamed</b></sub></a><br /></td>
+        <td align="center"><a href="https://github.com/Arwa-eng"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="200px;" alt=""/><br /><sub><b>Arwa Mohmaed</b></sub></a><br /></td>
   </tr>
 </table>
 
