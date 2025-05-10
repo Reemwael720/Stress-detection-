@@ -1,4 +1,4 @@
-# ECG Stress Classification using LSTM and CNN
+# ECG Stress Classification using LSTM and CNN:
 
 This project is designed to classify ECG signals into two categories: **Stress** and **Non-Stress**. The classification is based on the **WESAD** dataset, which includes physiological signals from individuals in different emotional states. The classification is carried out using a combination of **Convolutional Neural Networks (CNN)** and **Long Short-Term Memory (LSTM)** networks to take advantage of both feature extraction (via CNN) and sequence learning (via LSTM).
 
