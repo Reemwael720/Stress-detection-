@@ -76,14 +76,25 @@ The labels are:
  </p>
 
 <!-- Contributors -->
-## <img  align= center width=50px height=50px src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id = "contributors"></a>
+## <img align="center" width="50px" height="50px" src="https://media1.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=6c09b952tmewuarqtlyfot8t8i0kh6ov6vrypnwdrihlsshb&rid=giphy.gif&ct=s"> Contributors <a id="contributors"></a>
 
 <!-- Contributors list -->
-<table align="center" >
+<table align="center">
   <tr>
-        <td align="center"><a href="https://github.com/reemwael720"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="200px;" alt=""/><br /><sub><b>Reem AL_Ghazali</b></sub></a><br /></td>
-        <td align="center"><a href="https://github.com/Arwa-eng"><img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="200px;" alt=""/><br /><sub><b>Arwa Mohmaed</b></sub></a><br /></td>
+    <td align="center">
+      <a href="https://github.com/reemwael720">
+        <img src="https://avatars.githubusercontent.com/u/181993417?v=4" width="200px;" alt="Reem AL_Ghazali"/><br />
+        <sub><b>Reem AL_Ghazali</b></sub>
+      </a><br />
+    </td>
+    <td align="center">
+      <a href="https://github.com/Arwa-eng">
+        <img src="https://avatars.githubusercontent.com/u/117758929?v=4" width="200px;" alt="Arwa Mohamed"/><br />
+        <sub><b>Arwa Mohamed</b></sub>
+      </a><br />
+    </td>
   </tr>
 </table>
+
 
 
