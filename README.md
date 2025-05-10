@@ -75,20 +75,15 @@ The labels are:
    <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
  </p>
 
-## 👥 Contributors
 
 ## 👥 Contributors
 
 <p align="center">
   <a href="https://github.com/Reemwael720" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Reemwael720" width="150px" style="border-radius:50%" alt="Reem Al_Ghazali"/>
-    <br/>
-    <sub><b>Reem Wael</b></sub>
+    <img src="https://avatars.githubusercontent.com/Reemwael720" width="150px" style="border-radius:50%" alt="Reem Al_Ghazali"/><br/><sub><b>Reem Al_Gazali</b></sub>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Arwa-eng" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Arwa-eng" width="80px" style="border-radius:50%" alt="Arwa Mohamed"/>
-    <br/>
-    <sub><b>Arwa Eng</b></sub>
+    <img src="https://avatars.githubusercontent.com/Arwa-eng" width="80px" style="border-radius:50%" alt="Arwa Mohamed"/><br/><sub><b>Arwa Mohamed</b></sub>
   </a>
 </p>
