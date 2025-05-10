@@ -75,6 +75,18 @@ The labels are:
    <img src= "https://github.com/user-attachments/assets/1d78bd1b-55b8-438c-85bd-25defe19fbc7" alt="loss & accuracy">
  </p>
 
+## 👥 Contributors
 
+<a href="https://github.com/Reemwael720">
+  <img src="https://avatars.githubusercontent.com/Reemwael720" width="60px" alt="Reem Wael"/>
+  <br/>
+  <sub><b>Reem Wael</b></sub>
+</a>
+
+<a href="https://github.com/Arwa-eng">
+  <img src="https://avatars.githubusercontent.com/Arwa-eng" width="60px" alt="Arwa Eng"/>
+  <br/>
+  <sub><b>Arwa Eng</b></sub>
+</a>
 
 
